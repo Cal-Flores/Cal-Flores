@@ -1,4 +1,8 @@
-### Hi there 👋
+### Caleb, the academic weapon 👋
+
+I am a Full Stack Software Engineer who believes in making the world a better place. One line of code at a time..
+
+- 🔭 I’m currently working on Cloning Airbnb.
 
 <!--
 **Cal-Flores/Cal-Flores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
