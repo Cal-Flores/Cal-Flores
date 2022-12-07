@@ -1,4 +1,4 @@
-### Caleb, the academic weapon 👋
+### Academic weapon 
 
 I am a Full Stack Software Engineer who believes in making the world a better place. One line of code at a time..
 
