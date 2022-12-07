@@ -2,7 +2,13 @@
 
 I am a Full Stack Software Engineer who believes in making the world a better place. One line of code at a time..
 
-- 🔭 I’m currently working on Cloning Airbnb.
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,flask,express,sqlite,heroku,vscode)](https://skillicons.dev)
+
+- 🔭 I’m currently working on refractoring some components in a react project.
+-  🌱 I’m currently learning different delpoyment methods for hosting projects.
+-  👯 I’m looking to collaborate on any full stack project.
+-  💬 Ask me about coding bootcamps, lots of experince there.
+-  ⚡ Fun fact: was a wrestler in college, now I have neck problems
 
 <!--
 **Cal-Flores/Cal-Flores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
